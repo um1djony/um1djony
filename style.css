@@ -7,3 +7,7 @@
 body{
     background-color: bisque;
 }
+body div {
+    text-align: center;
+    border: solid 3px white;
+}
